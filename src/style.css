@@ -1,0 +1,22 @@
+.board {
+  margin: auto;
+  width: 50%;
+}
+
+.row {
+  float: left;
+  clear: both;
+}
+
+.square {
+  height: 100px;
+  width: 100px;
+  font-size: 2em;
+  float: left;
+}
+
+#reset {
+  float: left;
+  clear: both;
+  margin-top: 20px;
+}
